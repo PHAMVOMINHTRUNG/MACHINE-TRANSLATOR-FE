@@ -1,0 +1,22 @@
+{
+    "common": {
+        "search": "Search",
+        "cancel": "Cancel",
+        "dashboard":"Dashboard",
+        "vendor":"Vendor",
+        "customer":"Customer",
+        "program":"Program",
+        "product":"Product",
+        "user":"User",
+        "role":"Role",
+        "system":"System",
+        "masterData":"Master Data",
+        "logout":"Logout",
+        "benefitManagement":"Benefit Management",
+        "titleDashboard":"ASPIRE DASHBOARD",
+        "Welcome":"Welcome to dashboard overview and content summary",
+        "selectTemplate":"Key",
+        "translate":"Translate"
+    }
+}
+
